@@ -1,0 +1,27 @@
+1061, Altimeter Calibration Test Set, 77, 11/14/2023, 471.61
+1062, Screw Extractor, 104, 11/17/2023, 406.78
+1063, Crankshaft Alignment Tool, 89, 10/02/2023, 128.53
+1064, Turbofan Engine Test Stand, 151, 08/30/2024, 201.54
+1065, Crankshaft Alignment Tool, 136, 08/16/2024, 321.54
+1066, Circuit Breaker Finder, 166, 03/06/2023, 462.35
+1067, Safety Wire, 176, 01/12/2025, 465.7
+1068, Wire Twisting Pliers, 169, 09/18/2025, 217.16
+1069, Circuit Breaker Finder, 148, 02/22/2023, 310.31
+1070, Fuel Quantity Test Set, 57, 10/07/2023, 405.44
+1071, Fuel Quantity Test Set, 154, 12/01/2024, 190.89
+1072, Circuit Breaker Finder, 68, 03/18/2023, 91.92
+1073, Battery Load Tester, 95, 09/01/2023, 435.37
+1074, Fuel Quantity Test Set, 104, 03/09/2023, 300.48
+1075, Fuel Quantity Test Set, 189, 09/02/2025, 148.16
+1076, Deburring Tool, 86, 10/12/2024, 168.44
+1077, Safety Wire, 175, 10/17/2024, 224.99
+1078, Hydraulic Swaging Tool, 66, 06/19/2023, 190.26
+1079, Screw Extractor, 94, 07/19/2024, 287.59
+1080, Crankshaft Alignment Tool, 57, 09/20/2024, 366.11
+1081, Magnetic Drill, 135, 04/10/2024, 186.94
+1082, Oil Filter Cutter, 171, 06/04/2023, 232.38
+1083, Hand Seamer, 68, 06/24/2024, 270.62
+1084, Deburring Tool, 143, 05/08/2023, 175.76
+1058, Rivet, 90, 09/23/2023, 5.25
+1057, Speed Tape, 109, 08/05/2023, 16.75
+1060, Hammer, 10, 09/20/2023, 5.25
